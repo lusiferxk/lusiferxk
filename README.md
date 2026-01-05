@@ -40,8 +40,18 @@ STATUS     : "Building immersive web experiences."
   <img src="https://img.shields.io/badge/Java-Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=25c2a0" />
   <img src="https://img.shields.io/badge/JavaScript-React-000000?style=for-the-badge&logo=react&logoColor=25c2a0" />
   <img src="https://img.shields.io/badge/Web-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=25c2a0" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-000000?style=for-the-badge&logo=googlecloud&logoColor=25c2a0" />
+  <br>
+  
   <img src="https://img.shields.io/badge/DB-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/DB-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/Lang-SQL-000000?style=for-the-badge&logo=sqlite&logoColor=25c2a0" />
+  <br>
+
+  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/AWS-Amplify-000000?style=for-the-badge&logo=awsamplify&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/AWS-Route53-000000?style=for-the-badge&logo=amazonroute53&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/AWS-RDS-000000?style=for-the-badge&logo=amazonrds&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/Ops-DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=25c2a0" />
 </div>
 
 <h3 align="left"><samp>lusiferxk@sync2:~$ ls -R ./connections/</samp></h3>
