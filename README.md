@@ -67,7 +67,7 @@ STATUS     : "Building immersive web experiences."
   </a>
 </div>
 
-<p><b>./company_hq (SYNC2):</b></p>
+<p><b>./company_profile (Sync2):</b></p>
 <div align="left">
   <a href="https://www.facebook.com/sync2.net/">
     <img src="https://img.shields.io/badge/Facebook-SYNC2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
