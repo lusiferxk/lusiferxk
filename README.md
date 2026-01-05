@@ -29,7 +29,7 @@ STATUS     : "Building immersive web experiences."
 | `self` | **Sync2** | Software & Marketing | [**sync2.net**](https://sync2.net) |
 | `admin`| **Spotseeker** | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
 | `root` | **Kavia.ai** | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
-| `root` | **AcademyAdv** | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
+| `root` | **Academy of Adventure** | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
 | `user` | **Ceylara** | Clothing / E-commerce | [**ceylara.lk**](https://ceylara.lk) |
 | `user` | **Baihu** | Restaurant & Dining | [**baihu.lk**](https://baihu.lk) |
 | `user` | **Artiste Connection** | Software & Marketing | [**artisteconnection.com**](https://artiste-demo.vercel.app/) |
