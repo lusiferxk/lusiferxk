@@ -24,7 +24,7 @@ STATUS     : "Building immersive web experiences."
 
 <h3 align="left"><samp>lusiferxk@sync2:~$ ls -la ./active_projects/</samp></h3>
 
-| PERMISSIONS | OWNER | NAME | DESCRIPTION | URL |
+| OWNER | NAME | DESCRIPTION | URL |
 | :--- | :--- | :--- | :--- | :--- |
 | `self` | **Sync2** | Software & Marketing | [**sync2.net**](https://sync2.net) |
 | `admin`| **Spotseeker** | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
