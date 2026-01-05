@@ -32,6 +32,7 @@ STATUS     : "Building immersive web experiences."
 | `drwxr-xr-x` | `root` | **AcademyAdv** | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
 | `drwxr-xr-x` | `user` | **Ceylara** | Clothing / E-commerce | [**ceylara.lk**](https://ceylara.lk) |
 | `drwxr-xr-x` | `user` | **Baihu** | Restaurant & Dining | [**baihu.lk**](https://baihu.lk) |
+| `drwxr-xr-x` | `user` | **Artiste Connection** | Software & Marketing | [**artisteconnection.com**](https://artiste-demo.vercel.app/) |
 
 <h3 align="left"><samp>lusiferxk@sync2:~$ cat ./tech_stack.json</samp></h3>
 
@@ -51,18 +52,18 @@ STATUS     : "Building immersive web experiences."
     <img src="https://img.shields.io/badge/Facebook-%40lusiferxk-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/lusiferxk/">
+  <a href="https://www.instagram.com/youk_nowwhox/">
     <img src="https://img.shields.io/badge/Instagram-%40lusiferxk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 <p><b>./company_hq (SYNC2):</b></p>
 <div align="left">
-  <a href="https://www.facebook.com/sync2">
+  <a href="https://www.facebook.com/sync2.net/">
     <img src="https://img.shields.io/badge/Facebook-SYNC2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/sync2">
+  <a href="https://www.instagram.com/sync2_net">
     <img src="https://img.shields.io/badge/Instagram-SYNC2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
