@@ -26,13 +26,13 @@ STATUS     : "Building immersive web experiences."
 
 | PERMISSIONS | OWNER | NAME | DESCRIPTION | URL |
 | :--- | :--- | :--- | :--- | :--- |
-| `drwxr-xr-x` | `self` | **Sync2** | Software & Marketing | [**sync2.net**](https://sync2.net) |
-| `drwxr-xr-x` | `admin`| **Spotseeker** | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
-| `drwxr-xr-x` | `root` | **Kavia.ai** | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
-| `drwxr-xr-x` | `root` | **AcademyAdv** | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
-| `drwxr-xr-x` | `user` | **Ceylara** | Clothing / E-commerce | [**ceylara.lk**](https://ceylara.lk) |
-| `drwxr-xr-x` | `user` | **Baihu** | Restaurant & Dining | [**baihu.lk**](https://baihu.lk) |
-| `drwxr-xr-x` | `user` | **Artiste Connection** | Software & Marketing | [**artisteconnection.com**](https://artiste-demo.vercel.app/) |
+| `self` | **Sync2** | Software & Marketing | [**sync2.net**](https://sync2.net) |
+| `admin`| **Spotseeker** | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
+| `root` | **Kavia.ai** | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
+| `root` | **AcademyAdv** | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
+| `user` | **Ceylara** | Clothing / E-commerce | [**ceylara.lk**](https://ceylara.lk) |
+| `user` | **Baihu** | Restaurant & Dining | [**baihu.lk**](https://baihu.lk) |
+| `user` | **Artiste Connection** | Software & Marketing | [**artisteconnection.com**](https://artiste-demo.vercel.app/) |
 
 <h3 align="left"><samp>lusiferxk@sync2:~$ cat ./tech_stack.json</samp></h3>
 
