@@ -2,7 +2,7 @@
   <img src="assets/hero.jpg" alt="Hero" width="100%" />
 </div>
 
-### 🔗 Hey, It's lusiferxk here
+### 🔗 Hey, It's Nipuna Sudaraka here
 
 I like building things that make sense.  
 I work in empty space.  
@@ -33,3 +33,4 @@ I'm a founder and lead software engineer from Sri Lanka 🇱🇰, focused on hig
 #### 🔗 Connect
 - **Personal**: [LinkedIn](https://www.linkedin.com/in/x9rk) • [Facebook](https://www.facebook.com/lusiferxk/) • [Instagram](https://www.instagram.com/youk_nowwhox/)
 - **Organization**: [Sync2](https://sync2.net) • [LinkedIn](https://www.linkedin.com/company/sync2-net) • [Facebook](https://www.facebook.com/sync2.net/) • [Instagram](https://www.instagram.com/sync2_net)
+
