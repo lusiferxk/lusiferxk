@@ -20,10 +20,14 @@ I'm a founder and lead software engineer from Sri Lanka 🇱🇰, focused on hig
 - **[Baihu](https://baihu.lk)** — Restaurant dining & culinary digital experience
 - **[Artiste Connection](https://artiste-demo.vercel.app/)** — Creative agency & artist showcase
 
-#### 🛠️ Tech Stack
-- **Web & Frontend**: Next.js, React, JavaScript, TypeScript, HTML5, CSS3
-- **Backend & Database**: Java (Spring Boot), Node.js, PostgreSQL, MongoDB, SQL
-- **Cloud & DevOps**: AWS (Amplify, Route53, RDS), Docker, Linux, CI/CD
+#### 🧠 Technical Knowledge & Stack
+- **Frontend & Web Architecture**: Next.js (SSR/SSG), React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive UI/UX, State Management, Web Performance Optimization
+- **Backend & API Engineering**: Java, Spring Boot, Spring Security, JPA/Hibernate, Node.js, Express.js, RESTful API Architecture, GraphQL, Microservices, Authentication (OAuth2/JWT)
+- **Cloud Infrastructure & AWS**: AWS Ecosystem (Amplify, Route 53, RDS, EC2, S3, CloudFront, Lambda), Serverless Architecture, DNS Routing, Scalable Cloud Deployments
+- **Database Systems & Storage**: PostgreSQL, MongoDB, MySQL, SQLite, Redis, Relational Schema Design, NoSQL Data Modeling, Query Optimization, ORM Integration
+- **DevOps & Systems Admin**: Docker Containerization, Git/GitHub Version Control, Linux Systems Administration, CI/CD Pipelines, Nginx, SSL/TLS Security, Monitoring
+- **AI Systems & Integrations**: AI/ML Application Development, LLM & API Integrations (OpenAI, Grok), Semantic Analysis, Data Scraping & Automation
+- **Domain & Industry Architecture**: High-concurrency Event Ticketing & QR Validation (Spotseeker), E-Commerce & Payment Gateway Integrations (Ceylara), Restaurant Digital Experiences (Baihu), Enterprise SaaS (Sync2)
 
 #### 📬 Connect
 - **Personal**: [Facebook](https://www.facebook.com/lusiferxk/) • [Instagram](https://www.instagram.com/youk_nowwhox/)
