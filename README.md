@@ -14,6 +14,7 @@ I'm a founder and lead software engineer from Sri Lanka 🇱🇰, focused on hig
 #### 🔭 Active Projects
 - **[Sync2](https://sync2.net)** — Software engineering & marketing workspace
 - **[Spotseeker](https://spotseeker.lk)** — Premier event ticketing & management platform
+- **Not Like Us** — Music record label, event tracking & artist booking platform (Sri Lanka)
 - **[Kavia.ai](https://kavia.ai)** — Artificial intelligence development
 - **[Academy of Adventure](https://aoa.lk)** — Outdoor leadership & training academy
 - **[Ceylara](https://ceylara.lk)** — Modern fashion & e-commerce storefront
@@ -30,5 +31,5 @@ I'm a founder and lead software engineer from Sri Lanka 🇱🇰, focused on hig
 - **Domain & Industry Architecture**: High-concurrency Event Ticketing & QR Validation (Spotseeker), E-Commerce & Payment Gateway Integrations (Ceylara), Restaurant Digital Experiences (Baihu), Enterprise SaaS (Sync2)
 
 #### 📬 Connect
-- **Personal**: [Facebook](https://www.facebook.com/lusiferxk/) • [Instagram](https://www.instagram.com/youk_nowwhox/)
-- **Organization**: [Sync2 Web](https://sync2.net) • [Facebook](https://www.facebook.com/sync2.net/) • [Instagram](https://www.instagram.com/sync2_net)
+- **Personal**: [LinkedIn](https://www.linkedin.com/in/x9rk) • [Facebook](https://www.facebook.com/lusiferxk/) • [Instagram](https://www.instagram.com/youk_nowwhox/)
+- **Organization**: [LinkedIn](https://www.linkedin.com/company/sync2-net) • [Sync2 Web](https://sync2.net) • [Facebook](https://www.facebook.com/sync2.net/) • [Instagram](https://www.instagram.com/sync2_net)
