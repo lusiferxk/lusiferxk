@@ -22,13 +22,14 @@ I'm a founder and lead software engineer from Sri Lanka 🇱🇰, focused on hig
 - **[Artiste Connection](https://artiste-demo.vercel.app/)** — Creative agency & artist showcase
 
 #### 🔗 Technical Knowledge & Stack
-- **Frontend & Web Architecture**: Next.js (SSR/SSG), React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive UI/UX, State Management, Web Performance Optimization
-- **Backend & API Engineering**: Java, Spring Boot, Spring Security, JPA/Hibernate, Node.js, Express.js, RESTful API Architecture, GraphQL, Microservices, Authentication (OAuth2/JWT)
-- **Cloud Infrastructure & AWS**: AWS Ecosystem (Amplify, Route 53, RDS, EC2, S3, CloudFront, Lambda), Serverless Architecture, DNS Routing, Scalable Cloud Deployments
-- **Database Systems & Storage**: PostgreSQL, MongoDB, MySQL, SQLite, Redis, Relational Schema Design, NoSQL Data Modeling, Query Optimization, ORM Integration
-- **DevOps & Systems Admin**: Docker Containerization, Git/GitHub Version Control, Linux Systems Administration, CI/CD Pipelines, Nginx, SSL/TLS Security, Monitoring
-- **AI Systems & Integrations**: AI/ML Application Development, LLM & API Integrations (OpenAI, Grok), Semantic Analysis, Data Scraping & Automation
-- **Domain & Industry Architecture**: High-concurrency Event Ticketing & QR Validation (Spotseeker), Event-Driven Merchandising & Drops (Not Like Us), E-Commerce & Payment Gateways (Ceylara), Restaurant Digital Experiences (Baihu), Enterprise SaaS (Sync2)
+- **Frontend & Web Architecture**: Next.js (App Router, SSR/SSG/ISR), React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive UI/UX, State Management, Web Performance Optimization
+- **Backend & Event-Driven Systems**: 
+GoLang, Node.js, Express.js, Event-Driven Architecture, Async Webhook Processing, RESTful APIs, GraphQL, Microservices, OAuth2 / JWT Authentication
+- **E-Commerce & High-Concurrency Drops**: Limited-Drop & Flash-Sale Architecture, Inventory Locking & Concurrency Control, Payment Gateway Integrations (Stripe/Local Gateways), High-Traffic Queueing, Real-Time Order Tracking
+- **Cloud Infrastructure & AWS Ecosystem**: AWS (Amplify, Route 53, RDS, EC2, S3, CloudFront, Lambda), Serverless Architecture, DNS Routing, Scalable Cloud Deployments, CDN Optimization
+- **Database Systems & Caching**: PostgreSQL, MongoDB, MySQL, SQLite, Redis (High-Speed Caching & Session Storage), Relational Schema Design, NoSQL Data Modeling, Query Optimization
+- **DevOps, Security & CI/CD**: Docker Containerization, Git/GitHub Version Control, Linux Systems Administration, CI/CD Pipelines, Nginx, SSL/TLS Security, Rate Limiting & DDOS Mitigation
+- **AI & Specialized Domain Solutions**: AI/ML Application Development, LLM & API Integrations (OpenAI, Grok), High-Concurrency Event Ticketing & QR Validation (Spotseeker), Digital Dining Systems (Baihu), Enterprise SaaS (Sync2)
 
 #### 🔗 Connect
 - **Personal**: [LinkedIn](https://www.linkedin.com/in/x9rk) • [Facebook](https://www.facebook.com/lusiferxk/) • [Instagram](https://www.instagram.com/youk_nowwhox/)
