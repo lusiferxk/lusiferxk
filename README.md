@@ -33,5 +33,5 @@ GoLang, Node.js, Express.js, Event-Driven Architecture, Async Webhook Processing
 
 #### 🔗 Connect
 - **Personal**: [LinkedIn](https://www.linkedin.com/in/x9rk) • [Facebook](https://www.facebook.com/lusiferxk/) • [Instagram](https://www.instagram.com/youk_nowwhox/)
-- **Organization**: [Sync2](https://sync2.net) • [LinkedIn](https://www.linkedin.com/company/sync2-net) • [Facebook](https://www.facebook.com/sync2.net/) • [Instagram](https://www.instagram.com/sync2_net)
+- **Organization**: [Sync2](https://sync2.net) • [LinkedIn](https://www.linkedin.com/company/officialsync2) • [Facebook](https://www.facebook.com/officialsync2) • [Instagram](https://www.instagram.com/officialsync2)
 
