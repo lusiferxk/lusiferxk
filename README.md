@@ -19,7 +19,7 @@ I'm a founder and lead software engineer from Sri Lanka 🇱🇰, focused on hig
 - **[Academy of Adventure](https://aoa.lk)** — Outdoor leadership & training academy
 - **[Ceylara](https://ceylara.lk)** — Modern fashion & e-commerce storefront
 - **[Baihu](https://baihu.lk)** — Restaurant dining & culinary digital experience
-- **[Artiste Connection](https://artiste-demo.vercel.app/)** — Creative agency & artist showcase
+- **[Artiste Connection](https://www.artisteconnection.com/)** — Creative agency & artist showcase
 
 #### 🔗 Technical Knowledge & Stack
 - **Frontend & Web Architecture**: Next.js (App Router, SSR/SSG/ISR), React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive UI/UX, State Management, Web Performance Optimization
